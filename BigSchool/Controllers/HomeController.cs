@@ -8,6 +8,7 @@ namespace BigSchool.Controllers
 {
     public class HomeController : Controller
     {
+        //them ghi chu trong HomeController.cs
         public ActionResult Index()
         {
             return View();
